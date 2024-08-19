@@ -1,0 +1,12 @@
+C:\Users\Karen Rivas\source\repos\Biblioteca.API\Biblioteca.Common\bin\Debug\net8.0\Biblioteca.Common.deps.json
+C:\Users\Karen Rivas\source\repos\Biblioteca.API\Biblioteca.Common\bin\Debug\net8.0\Biblioteca.Common.dll
+C:\Users\Karen Rivas\source\repos\Biblioteca.API\Biblioteca.Common\bin\Debug\net8.0\Biblioteca.Common.pdb
+C:\Users\Karen Rivas\source\repos\Biblioteca.API\Biblioteca.Common\obj\Debug\net8.0\Biblioteca.Common.csproj.AssemblyReference.cache
+C:\Users\Karen Rivas\source\repos\Biblioteca.API\Biblioteca.Common\obj\Debug\net8.0\Biblioteca.Common.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Karen Rivas\source\repos\Biblioteca.API\Biblioteca.Common\obj\Debug\net8.0\Biblioteca.Common.AssemblyInfoInputs.cache
+C:\Users\Karen Rivas\source\repos\Biblioteca.API\Biblioteca.Common\obj\Debug\net8.0\Biblioteca.Common.AssemblyInfo.cs
+C:\Users\Karen Rivas\source\repos\Biblioteca.API\Biblioteca.Common\obj\Debug\net8.0\Biblioteca.Common.csproj.CoreCompileInputs.cache
+C:\Users\Karen Rivas\source\repos\Biblioteca.API\Biblioteca.Common\obj\Debug\net8.0\Biblioteca.Common.dll
+C:\Users\Karen Rivas\source\repos\Biblioteca.API\Biblioteca.Common\obj\Debug\net8.0\refint\Biblioteca.Common.dll
+C:\Users\Karen Rivas\source\repos\Biblioteca.API\Biblioteca.Common\obj\Debug\net8.0\Biblioteca.Common.pdb
+C:\Users\Karen Rivas\source\repos\Biblioteca.API\Biblioteca.Common\obj\Debug\net8.0\ref\Biblioteca.Common.dll

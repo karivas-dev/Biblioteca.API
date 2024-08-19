@@ -1,0 +1,17 @@
+C:\Users\Karen Rivas\source\repos\Biblioteca.API\Biblioteca.DAL\obj\Debug\net8.0\Biblioteca.DAL.csproj.AssemblyReference.cache
+C:\Users\Karen Rivas\source\repos\Biblioteca.API\Biblioteca.DAL\obj\Debug\net8.0\Biblioteca.DAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Karen Rivas\source\repos\Biblioteca.API\Biblioteca.DAL\obj\Debug\net8.0\Biblioteca.DAL.AssemblyInfoInputs.cache
+C:\Users\Karen Rivas\source\repos\Biblioteca.API\Biblioteca.DAL\obj\Debug\net8.0\Biblioteca.DAL.AssemblyInfo.cs
+C:\Users\Karen Rivas\source\repos\Biblioteca.API\Biblioteca.DAL\obj\Debug\net8.0\Biblioteca.DAL.csproj.CoreCompileInputs.cache
+C:\Users\Karen Rivas\source\repos\Biblioteca.API\Biblioteca.DAL\bin\Debug\net8.0\Biblioteca.DAL.deps.json
+C:\Users\Karen Rivas\source\repos\Biblioteca.API\Biblioteca.DAL\bin\Debug\net8.0\Biblioteca.DAL.dll
+C:\Users\Karen Rivas\source\repos\Biblioteca.API\Biblioteca.DAL\bin\Debug\net8.0\Biblioteca.DAL.pdb
+C:\Users\Karen Rivas\source\repos\Biblioteca.API\Biblioteca.DAL\bin\Debug\net8.0\Biblioteca.Common.dll
+C:\Users\Karen Rivas\source\repos\Biblioteca.API\Biblioteca.DAL\bin\Debug\net8.0\Biblioteca.Common.pdb
+C:\Users\Karen Rivas\source\repos\Biblioteca.API\Biblioteca.DAL\obj\Debug\net8.0\Bibliote.82B89A30.Up2Date
+C:\Users\Karen Rivas\source\repos\Biblioteca.API\Biblioteca.DAL\obj\Debug\net8.0\Biblioteca.DAL.dll
+C:\Users\Karen Rivas\source\repos\Biblioteca.API\Biblioteca.DAL\obj\Debug\net8.0\refint\Biblioteca.DAL.dll
+C:\Users\Karen Rivas\source\repos\Biblioteca.API\Biblioteca.DAL\obj\Debug\net8.0\Biblioteca.DAL.pdb
+C:\Users\Karen Rivas\source\repos\Biblioteca.API\Biblioteca.DAL\obj\Debug\net8.0\ref\Biblioteca.DAL.dll
+C:\Users\Karen Rivas\source\repos\Biblioteca.API\Biblioteca.DAL\bin\Debug\net8.0\Biblioteca.Entities.dll
+C:\Users\Karen Rivas\source\repos\Biblioteca.API\Biblioteca.DAL\bin\Debug\net8.0\Biblioteca.Entities.pdb

@@ -1,0 +1,12 @@
+C:\Users\Karen Rivas\source\repos\Biblioteca.API\Biblioteca.Entities\bin\Debug\net8.0\Biblioteca.Entities.deps.json
+C:\Users\Karen Rivas\source\repos\Biblioteca.API\Biblioteca.Entities\bin\Debug\net8.0\Biblioteca.Entities.dll
+C:\Users\Karen Rivas\source\repos\Biblioteca.API\Biblioteca.Entities\bin\Debug\net8.0\Biblioteca.Entities.pdb
+C:\Users\Karen Rivas\source\repos\Biblioteca.API\Biblioteca.Entities\obj\Debug\net8.0\Biblioteca.Entities.csproj.AssemblyReference.cache
+C:\Users\Karen Rivas\source\repos\Biblioteca.API\Biblioteca.Entities\obj\Debug\net8.0\Biblioteca.Entities.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Karen Rivas\source\repos\Biblioteca.API\Biblioteca.Entities\obj\Debug\net8.0\Biblioteca.Entities.AssemblyInfoInputs.cache
+C:\Users\Karen Rivas\source\repos\Biblioteca.API\Biblioteca.Entities\obj\Debug\net8.0\Biblioteca.Entities.AssemblyInfo.cs
+C:\Users\Karen Rivas\source\repos\Biblioteca.API\Biblioteca.Entities\obj\Debug\net8.0\Biblioteca.Entities.csproj.CoreCompileInputs.cache
+C:\Users\Karen Rivas\source\repos\Biblioteca.API\Biblioteca.Entities\obj\Debug\net8.0\Biblioteca.Entities.dll
+C:\Users\Karen Rivas\source\repos\Biblioteca.API\Biblioteca.Entities\obj\Debug\net8.0\refint\Biblioteca.Entities.dll
+C:\Users\Karen Rivas\source\repos\Biblioteca.API\Biblioteca.Entities\obj\Debug\net8.0\Biblioteca.Entities.pdb
+C:\Users\Karen Rivas\source\repos\Biblioteca.API\Biblioteca.Entities\obj\Debug\net8.0\ref\Biblioteca.Entities.dll
