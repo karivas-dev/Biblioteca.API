@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "CtpvFGpreKI=",
+  "dgSpecHash": "7bQwKor9hn4=",
   "success": true,
-  "projectFilePath": "C:\\Users\\Karen Rivas\\source\\repos\\Biblioteca.API\\Biblioteca.BL\\Biblioteca.BL.csproj",
+  "projectFilePath": "C:\\UDB\\Biblioteca.API\\Biblioteca.BL\\Biblioteca.BL.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Karen Rivas\\.nuget\\packages\\automapper\\13.0.1\\automapper.13.0.1.nupkg.sha512",
     "C:\\Users\\Karen Rivas\\.nuget\\packages\\dapper\\2.1.35\\dapper.2.1.35.nupkg.sha512",

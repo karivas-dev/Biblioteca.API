@@ -6671,11 +6671,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Karen Rivas\\source\\repos\\Biblioteca.API\\Biblioteca.BL\\Biblioteca.BL.csproj",
+      "projectUniqueName": "C:\\UDB\\Biblioteca.API\\Biblioteca.BL\\Biblioteca.BL.csproj",
       "projectName": "Biblioteca.BL",
-      "projectPath": "C:\\Users\\Karen Rivas\\source\\repos\\Biblioteca.API\\Biblioteca.BL\\Biblioteca.BL.csproj",
+      "projectPath": "C:\\UDB\\Biblioteca.API\\Biblioteca.BL\\Biblioteca.BL.csproj",
       "packagesPath": "C:\\Users\\Karen Rivas\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Karen Rivas\\source\\repos\\Biblioteca.API\\Biblioteca.BL\\obj\\",
+      "outputPath": "C:\\UDB\\Biblioteca.API\\Biblioteca.BL\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Karen Rivas\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -6693,11 +6693,11 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "projectReferences": {
-            "C:\\Users\\Karen Rivas\\source\\repos\\Biblioteca.API\\Biblioteca.DAL\\Biblioteca.DAL.csproj": {
-              "projectPath": "C:\\Users\\Karen Rivas\\source\\repos\\Biblioteca.API\\Biblioteca.DAL\\Biblioteca.DAL.csproj"
+            "C:\\UDB\\Biblioteca.API\\Biblioteca.DAL\\Biblioteca.DAL.csproj": {
+              "projectPath": "C:\\UDB\\Biblioteca.API\\Biblioteca.DAL\\Biblioteca.DAL.csproj"
             },
-            "C:\\Users\\Karen Rivas\\source\\repos\\Biblioteca.API\\Biblioteca.Entities\\Biblioteca.Entities.csproj": {
-              "projectPath": "C:\\Users\\Karen Rivas\\source\\repos\\Biblioteca.API\\Biblioteca.Entities\\Biblioteca.Entities.csproj"
+            "C:\\UDB\\Biblioteca.API\\Biblioteca.Entities\\Biblioteca.Entities.csproj": {
+              "projectPath": "C:\\UDB\\Biblioteca.API\\Biblioteca.Entities\\Biblioteca.Entities.csproj"
             }
           }
         }

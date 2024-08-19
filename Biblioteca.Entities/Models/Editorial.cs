@@ -7,7 +7,7 @@ using System.Threading.Tasks;
 
 namespace Biblioteca.Entities.Models
 {
-    internal class Editorial
+    public class Editorial
     {
         [Key]
         public int Id { get; set; }

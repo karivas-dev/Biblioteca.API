@@ -7,13 +7,19 @@ using System.Threading.Tasks;
 
 namespace Biblioteca.Entities.Models
 {
-    internal class Libro
+    public class Libro
     {
         [Key]
         public int Id { get; set; }
         public required string Nombre { get; set; }
-        public required string FechaDeLanzamiento { get; set; }
-        public required string CodigoAutor { get; set; }
-        public required string CodigoEditorial { get; set; }
+        public required DateTime FechaDeLanzamiento { get; set; }
+
+        [Required]
+        public int AutorId { get; set; }
+        public Autor Autor { get; set; } = null!;
+
+        [Required]
+        public int EditorialId { get; set; }
+        public Editorial Editorial { get; set; } = null!;
     }
 }

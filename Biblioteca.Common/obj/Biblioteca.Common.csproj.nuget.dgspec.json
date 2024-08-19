@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Karen Rivas\\source\\repos\\Biblioteca.API\\Biblioteca.Common\\Biblioteca.Common.csproj": {}
+    "C:\\UDB\\Biblioteca.API\\Biblioteca.Common\\Biblioteca.Common.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Karen Rivas\\source\\repos\\Biblioteca.API\\Biblioteca.Common\\Biblioteca.Common.csproj": {
+    "C:\\UDB\\Biblioteca.API\\Biblioteca.Common\\Biblioteca.Common.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Karen Rivas\\source\\repos\\Biblioteca.API\\Biblioteca.Common\\Biblioteca.Common.csproj",
+        "projectUniqueName": "C:\\UDB\\Biblioteca.API\\Biblioteca.Common\\Biblioteca.Common.csproj",
         "projectName": "Biblioteca.Common",
-        "projectPath": "C:\\Users\\Karen Rivas\\source\\repos\\Biblioteca.API\\Biblioteca.Common\\Biblioteca.Common.csproj",
+        "projectPath": "C:\\UDB\\Biblioteca.API\\Biblioteca.Common\\Biblioteca.Common.csproj",
         "packagesPath": "C:\\Users\\Karen Rivas\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Karen Rivas\\source\\repos\\Biblioteca.API\\Biblioteca.Common\\obj\\",
+        "outputPath": "C:\\UDB\\Biblioteca.API\\Biblioteca.Common\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Karen Rivas\\AppData\\Roaming\\NuGet\\NuGet.Config",

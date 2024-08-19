@@ -6160,11 +6160,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Karen Rivas\\source\\repos\\Biblioteca.API\\Biblioteca.Entities\\Biblioteca.Entities.csproj",
+      "projectUniqueName": "C:\\UDB\\Biblioteca.API\\Biblioteca.Entities\\Biblioteca.Entities.csproj",
       "projectName": "Biblioteca.Entities",
-      "projectPath": "C:\\Users\\Karen Rivas\\source\\repos\\Biblioteca.API\\Biblioteca.Entities\\Biblioteca.Entities.csproj",
+      "projectPath": "C:\\UDB\\Biblioteca.API\\Biblioteca.Entities\\Biblioteca.Entities.csproj",
       "packagesPath": "C:\\Users\\Karen Rivas\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Karen Rivas\\source\\repos\\Biblioteca.API\\Biblioteca.Entities\\obj\\",
+      "outputPath": "C:\\UDB\\Biblioteca.API\\Biblioteca.Entities\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Karen Rivas\\AppData\\Roaming\\NuGet\\NuGet.Config",

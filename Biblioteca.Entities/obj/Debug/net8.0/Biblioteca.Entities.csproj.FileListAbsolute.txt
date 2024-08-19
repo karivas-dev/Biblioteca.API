@@ -10,3 +10,16 @@ C:\Users\Karen Rivas\source\repos\Biblioteca.API\Biblioteca.Entities\obj\Debug\n
 C:\Users\Karen Rivas\source\repos\Biblioteca.API\Biblioteca.Entities\obj\Debug\net8.0\refint\Biblioteca.Entities.dll
 C:\Users\Karen Rivas\source\repos\Biblioteca.API\Biblioteca.Entities\obj\Debug\net8.0\Biblioteca.Entities.pdb
 C:\Users\Karen Rivas\source\repos\Biblioteca.API\Biblioteca.Entities\obj\Debug\net8.0\ref\Biblioteca.Entities.dll
+C:\UDB\Biblioteca.API\Biblioteca.Entities\bin\Debug\net8.0\Biblioteca.Entities.deps.json
+C:\UDB\Biblioteca.API\Biblioteca.Entities\bin\Debug\net8.0\Biblioteca.Entities.dll
+C:\UDB\Biblioteca.API\Biblioteca.Entities\bin\Debug\net8.0\Biblioteca.Entities.pdb
+C:\UDB\Biblioteca.API\Biblioteca.Entities\obj\Debug\net8.0\Biblioteca.Entities.csproj.AssemblyReference.cache
+C:\UDB\Biblioteca.API\Biblioteca.Entities\obj\Debug\net8.0\Biblioteca.Entities.GeneratedMSBuildEditorConfig.editorconfig
+C:\UDB\Biblioteca.API\Biblioteca.Entities\obj\Debug\net8.0\Biblioteca.Entities.AssemblyInfoInputs.cache
+C:\UDB\Biblioteca.API\Biblioteca.Entities\obj\Debug\net8.0\Biblioteca.Entities.AssemblyInfo.cs
+C:\UDB\Biblioteca.API\Biblioteca.Entities\obj\Debug\net8.0\Biblioteca.Entities.csproj.CoreCompileInputs.cache
+C:\UDB\Biblioteca.API\Biblioteca.Entities\obj\Debug\net8.0\Biblioteca.Entities.sourcelink.json
+C:\UDB\Biblioteca.API\Biblioteca.Entities\obj\Debug\net8.0\Biblioteca.Entities.dll
+C:\UDB\Biblioteca.API\Biblioteca.Entities\obj\Debug\net8.0\refint\Biblioteca.Entities.dll
+C:\UDB\Biblioteca.API\Biblioteca.Entities\obj\Debug\net8.0\Biblioteca.Entities.pdb
+C:\UDB\Biblioteca.API\Biblioteca.Entities\obj\Debug\net8.0\ref\Biblioteca.Entities.dll
